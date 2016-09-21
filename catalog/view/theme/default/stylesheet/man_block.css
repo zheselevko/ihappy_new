@@ -1,0 +1,12 @@
+.box-manufacturer {
+    overflow: auto;
+}
+.box-manufacturer > div {
+    float: left;
+padding-left: 12px;
+    margin: 3px;
+}
+.box-manufacturer .image {
+    text-align: center;
+}
+ 
